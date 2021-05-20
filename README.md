@@ -8,6 +8,8 @@ Online mode allows user to pull news articles online to compare whereas offline 
 
 Another feature included is the option to either use spaCy's default large model or spaCy-BERT model.
 
+[Project done in 2020]
+
 ## Pre-requisites
 1) Able to run [spaCy](https://spacy.io/) and use the large-model (https://spacy.io/models/en#en_core_web_lg)
 2) pyQt5
