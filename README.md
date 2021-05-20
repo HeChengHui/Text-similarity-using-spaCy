@@ -12,4 +12,12 @@ Another feature included is the option to either use spaCy's default large model
 1) Able to run [spaCy](https://spacy.io/) and use the large-model (https://spacy.io/models/en#en_core_web_lg)
 2) pyQt5
 3) OCR for pdf
+
 Look through requirements.txt if anything missing
+
+
+## Run
+I believe just need to run the .py file
+
+## Others
+Added own report for reading.
